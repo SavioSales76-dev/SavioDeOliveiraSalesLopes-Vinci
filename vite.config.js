@@ -7,7 +7,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/S-vio-de-Oliveira-Sales-Lopes---Vinci/',
+  base: '/SavioDeOliveiraSalesLopes-Vinci/',
   build: {
     outDir: 'docs',
   },
